@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "tdma_c.h": "c",
+        "usart.h": "c",
+        "ringbuf.h": "c"
+    }
+}

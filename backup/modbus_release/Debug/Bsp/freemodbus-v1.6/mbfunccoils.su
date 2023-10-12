@@ -1,0 +1,3 @@
+../Bsp/freemodbus-v1.6/mbfunccoils.c:70:1:eMBFuncReadCoils	32	static
+../Bsp/freemodbus-v1.6/mbfunccoils.c:149:1:eMBFuncWriteCoil	24	static
+../Bsp/freemodbus-v1.6/mbfunccoils.c:203:1:eMBFuncWriteMultipleCoils	24	static

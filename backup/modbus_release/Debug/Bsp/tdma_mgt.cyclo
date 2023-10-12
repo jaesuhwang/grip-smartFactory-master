@@ -1,0 +1,3 @@
+tdma_mgt.c:17:6:tdma_mgt_init	2
+tdma_mgt.c:25:9:tdma_mgt_attach	6
+tdma_mgt.c:49:9:tdma_mgt_getaddr	3

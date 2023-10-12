@@ -1,0 +1,4 @@
+../Bsp/freemodbus-v1.6/port.c:28:14:eMBRegInputCB	24	static
+../Bsp/freemodbus-v1.6/port.c:59:14:eMBRegHoldingCB	32	static
+../Bsp/freemodbus-v1.6/port.c:120:14:eMBRegCoilsCB	32	static
+../Bsp/freemodbus-v1.6/port.c:175:14:eMBRegDiscreteCB	24	static

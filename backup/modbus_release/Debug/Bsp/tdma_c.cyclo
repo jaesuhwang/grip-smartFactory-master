@@ -1,0 +1,10 @@
+tdma_c.c:75:6:mac_init	3
+tdma_c.c:153:6:mac_set_new_data_cb	1
+tdma_c.c:158:6:set_rx	1
+tdma_c.c:175:6:slot_alarm	3
+tdma_c.c:201:6:sleep_time_set	1
+tdma_c.c:232:10:beacon_send	3
+tdma_c.c:295:10:beacon_sent	1
+tdma_c.c:308:10:slot_data	7
+tdma_c.c:437:10:slot_control	9
+tdma_c.c:519:10:sync_detected	1

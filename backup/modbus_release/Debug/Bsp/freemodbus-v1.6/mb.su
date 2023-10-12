@@ -1,0 +1,6 @@
+../Bsp/freemodbus-v1.6/mb.c:132:1:eMBInit	24	static
+../Bsp/freemodbus-v1.6/mb.c:228:1:eMBRegisterCB	24	static,ignoring_inline_asm
+../Bsp/freemodbus-v1.6/mb.c:275:1:eMBClose	16	static
+../Bsp/freemodbus-v1.6/mb.c:294:1:eMBEnable	16	static
+../Bsp/freemodbus-v1.6/mb.c:312:1:eMBDisable	16	static
+../Bsp/freemodbus-v1.6/mb.c:334:1:eMBPoll	24	static

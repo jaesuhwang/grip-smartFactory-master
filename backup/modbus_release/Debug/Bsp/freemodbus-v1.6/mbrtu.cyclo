@@ -1,0 +1,8 @@
+mbrtu.c:82:1:eMBRTUInit	4
+mbrtu.c:127:1:eMBRTUStart	1
+mbrtu.c:143:1:eMBRTUStop	1
+mbrtu.c:152:1:eMBRTUReceive	3
+mbrtu.c:186:1:eMBRTUSend	2
+mbrtu.c:225:1:xMBRTUReceiveFSM	6
+mbrtu.c:285:1:xMBRTUTransmitFSM	4
+mbrtu.c:323:1:xMBRTUTimerT35Expired	7

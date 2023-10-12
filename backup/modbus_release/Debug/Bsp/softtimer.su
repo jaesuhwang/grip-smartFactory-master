@@ -1,0 +1,8 @@
+../Bsp/softtimer.c:37:6:swtimerInit	16	static
+../Bsp/softtimer.c:63:6:swtimerISR	16	static
+../Bsp/softtimer.c:93:6:swtimerSet	24	static
+../Bsp/softtimer.c:102:6:swtimerStart	16	static
+../Bsp/softtimer.c:111:6:swtimerStop	16	static
+../Bsp/softtimer.c:119:6:swtimerReset	16	static
+../Bsp/softtimer.c:125:18:swtimerGetHandle	16	static
+../Bsp/softtimer.c:134:10:swtimerGetCounter	4	static

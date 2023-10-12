@@ -1,0 +1,7 @@
+../Bsp/freemodbus-v1.6/portserial.c:35:6:vMBPortSerialEnable	16	static
+../Bsp/freemodbus-v1.6/portserial.c:80:6:xMBPortSerialInit	16	static
+../Bsp/freemodbus-v1.6/portserial.c:111:6:xMBPortSerialPutByte	16	static
+../Bsp/freemodbus-v1.6/portserial.c:117:6:xMBPortSerialGetByte	16	static
+../Bsp/freemodbus-v1.6/portserial.c:129:13:prvvUARTTxReadyISR	8	static
+../Bsp/freemodbus-v1.6/portserial.c:139:13:prvvUARTRxISR	8	static
+../Bsp/freemodbus-v1.6/portserial.c:144:6:USART2_IRQHandler	24	static

@@ -1,0 +1,4 @@
+port.c:28:14:eMBRegInputCB	3
+port.c:59:14:eMBRegHoldingCB	10
+port.c:120:14:eMBRegCoilsCB	12
+port.c:175:14:eMBRegDiscreteCB	8

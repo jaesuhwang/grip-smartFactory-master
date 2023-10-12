@@ -1,0 +1,8 @@
+softtimer.c:37:6:swtimerInit	3
+softtimer.c:63:6:swtimerISR	6
+softtimer.c:93:6:swtimerSet	1
+softtimer.c:102:6:swtimerStart	2
+softtimer.c:111:6:swtimerStop	2
+softtimer.c:119:6:swtimerReset	1
+softtimer.c:125:18:swtimerGetHandle	1
+softtimer.c:134:10:swtimerGetCounter	1

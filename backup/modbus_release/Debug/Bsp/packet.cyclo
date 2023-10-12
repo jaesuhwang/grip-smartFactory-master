@@ -1,0 +1,4 @@
+packet.c:39:6:uartRingBuff_init	1
+packet.c:43:5:recvUartPkt	4
+packet.c:65:5:handleUart2Pkt	8
+packet.c:123:6:uart2_receive_func	3

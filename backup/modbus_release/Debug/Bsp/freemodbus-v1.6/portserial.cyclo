@@ -1,0 +1,7 @@
+portserial.c:35:6:vMBPortSerialEnable	3
+portserial.c:80:6:xMBPortSerialInit	3
+portserial.c:111:6:xMBPortSerialPutByte	1
+portserial.c:117:6:xMBPortSerialGetByte	1
+portserial.c:129:13:prvvUARTTxReadyISR	1
+portserial.c:139:13:prvvUARTRxISR	1
+portserial.c:144:6:USART2_IRQHandler	5

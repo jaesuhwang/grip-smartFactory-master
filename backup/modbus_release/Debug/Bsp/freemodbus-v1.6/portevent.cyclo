@@ -1,0 +1,3 @@
+portevent.c:33:1:xMBPortEventInit	1
+portevent.c:40:1:xMBPortEventPost	1
+portevent.c:48:1:xMBPortEventGet	2

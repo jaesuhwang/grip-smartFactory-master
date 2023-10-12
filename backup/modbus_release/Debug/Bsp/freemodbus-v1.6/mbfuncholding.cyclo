@@ -1,0 +1,4 @@
+mbfuncholding.c:78:1:eMBFuncWriteHoldingRegister	3
+mbfuncholding.c:111:1:eMBFuncWriteMultipleHoldingRegister	6
+mbfuncholding.c:171:1:eMBFuncReadHoldingRegister	5
+mbfuncholding.c:236:1:eMBFuncReadWriteMultipleHoldingRegister	10

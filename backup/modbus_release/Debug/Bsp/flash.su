@@ -1,0 +1,4 @@
+../Bsp/flash.c:43:17:GetSector	24	static
+../Bsp/flash.c:158:5:stm32_flash_read	48	static
+../Bsp/flash.c:173:5:stm32_flash_write	56	static
+../Bsp/flash.c:213:5:stm32_flash_erase	72	static

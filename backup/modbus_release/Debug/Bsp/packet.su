@@ -1,0 +1,4 @@
+../Bsp/packet.c:39:6:uartRingBuff_init	8	static
+../Bsp/packet.c:43:5:recvUartPkt	16	static
+../Bsp/packet.c:65:5:handleUart2Pkt	16	static
+../Bsp/packet.c:123:6:uart2_receive_func	8	static

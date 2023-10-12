@@ -1,0 +1,5 @@
+../Bsp/freemodbus-v1.6/porttimer.c:36:6:xMBPortTimersInit	40	static
+../Bsp/freemodbus-v1.6/porttimer.c:68:13:vMBPortTimersEnable	4	static
+../Bsp/freemodbus-v1.6/porttimer.c:74:13:vMBPortTimersDisable	4	static
+../Bsp/freemodbus-v1.6/porttimer.c:83:13:prvvTIMERExpiredISR	8	static
+../Bsp/freemodbus-v1.6/porttimer.c:89:6:TIM7_IRQHandler	8	static

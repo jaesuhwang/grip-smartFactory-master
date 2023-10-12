@@ -1,0 +1,16 @@
+ringbuf.c:84:1:update_index_atomic	2
+ringbuf.c:133:1:ringbuf_full	1
+ringbuf.c:172:1:ringbuf_empty	1
+ringbuf.c:206:1:ringbuf_flush	1
+ringbuf.c:238:1:ringbuf_used	2
+ringbuf.c:273:1:ringbuf_free	1
+ringbuf.c:301:1:ringbuf_contig_used	2
+ringbuf.c:338:1:ringbuf_contig_free	3
+ringbuf.c:389:1:ringbuf_size	1
+ringbuf.c:414:1:ringbuf_readone	1
+ringbuf.c:458:1:ringbuf_read	2
+ringbuf.c:499:1:ringbuf_advread	1
+ringbuf.c:541:1:ringbuf_advwrite	4
+ringbuf.c:621:6:ringbuf_writeone	2
+ringbuf.c:660:1:ringbuf_write	2
+ringbuf.c:699:1:ringbuf_init	1

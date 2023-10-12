@@ -1,0 +1,9 @@
+../Bsp/led.c:13:6:ledOn	16	static
+../Bsp/led.c:25:6:ledOff	16	static
+../Bsp/led.c:37:6:ledToggle	16	static
+../Bsp/led.c:49:6:led1_Init	32	static
+../Bsp/led.c:67:6:led2_Init	32	static
+../Bsp/led.c:87:6:dbgLedOn	8	static
+../Bsp/led.c:92:6:dbgLedOff	8	static
+../Bsp/led.c:97:6:dbgLedToggle	8	static
+../Bsp/led.c:102:6:dbgLedInit	32	static

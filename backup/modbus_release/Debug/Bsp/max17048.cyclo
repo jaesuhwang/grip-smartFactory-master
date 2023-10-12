@@ -1,0 +1,12 @@
+max17048.c:32:20:I2C_State_Reset	1
+max17048.c:75:13:Power_On_Reset	1
+max17048.c:100:13:Alarm_State_Reset	1
+max17048.c:162:17:Read_Vcell_Update	6
+max17048.c:192:17:Read_Soc_Update	6
+max17048.c:223:6:Voltameter_Port_I2C_MasterTxCpltCallback	1
+max17048.c:230:6:Voltameter_Port_I2C_MasterRxCpltCallback	3
+max17048.c:248:10:Voltameter_Port_Get_Battery_Electric_Quantity	1
+max17048.c:257:9:Voltameter_Port_Get_Battery_Charge_State	2
+max17048.c:270:6:Voltameter_Port_OnOff_Sleep	2
+max17048.c:305:6:Voltameter_Port_Init	1
+max17048.c:330:6:MAX17048_Driver_Compensate	2
