@@ -201,13 +201,6 @@ int main(void)
 	  fsFileRewind(&fs);
 	  fsFileClose(&fs);
 
-//        cliPrintf("L]up        limit:%ld \r\n",motor_sts.MotorPos[0].motor_start_ps);
-//        cliPrintf("L]Curr           :%ld \r\n",motor_sts.MotorPos[0].motor_current_ps);
-//        cliPrintf("L]down      limit:%ld \r\n",motor_sts.MotorPos[0].motor_end_ps);
-//        cliPrintf("L]Rear down limit:%ld \r\n",motor_sts.MotorPos[0].motor_end_rear_ps);
-//        cliPrintf("R]up        limit:%ld \r\n",motor_sts.MotorPos[1].motor_start_ps);
-//        cliPrintf("R]Curr           :%ld \r\n",motor_sts.MotorPos[1].motor_current_ps);
-//        cliPrintf("R]down      limit:%ld \r\n",motor_sts.MotorPos[1].motor_end_ps);
 //        cliPrintf("R]Rear down limit:%ld \r\n",motor_sts.MotorPos[1].motor_end_rear_ps);
   }
   else
